@@ -1,0 +1,389 @@
+[31/Jan/2017 23:31:22] - Name Classifier - INFO - vijay is classified as M
+[31/Jan/2017 23:33:17] - Name Classifier - INFO - hello is classified as M
+[31/Jan/2017 23:33:33] - Name Classifier - INFO - ma is classified as F
+[06/Feb/2017 16:17:36] - Name Classifier - INFO - hello is classified as M
+[06/Feb/2017 16:17:39] - Name Classifier - INFO - exit is classified as M
+[06/Feb/2017 16:41:48] - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[06/Feb/2017 16:41:48] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[06/Feb/2017 16:41:50] - werkzeug - WARNING -  * Debugger is active!
+[06/Feb/2017 16:41:50] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[06/Feb/2017 16:41:53] - werkzeug - INFO - 127.0.0.1 - - [06/Feb/2017 16:41:53] "POST / HTTP/1.1" 500 -
+[06/Feb/2017 16:42:47] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 16:42:47] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 16:42:47] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 16:42:48] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[06/Feb/2017 16:42:50] - werkzeug - WARNING -  * Debugger is active!
+[06/Feb/2017 16:42:50] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[06/Feb/2017 16:42:54] - werkzeug - INFO - 127.0.0.1 - - [06/Feb/2017 16:42:54] "POST / HTTP/1.1" 200 -
+[06/Feb/2017 16:48:43] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\USSSALoader.py', reloading
+[06/Feb/2017 16:48:43] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\USSSALoader.py', reloading
+[06/Feb/2017 16:48:43] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\USSSALoader.py', reloading
+[06/Feb/2017 16:48:44] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[06/Feb/2017 16:48:45] - werkzeug - WARNING -  * Debugger is active!
+[06/Feb/2017 16:48:45] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[06/Feb/2017 16:49:21] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[06/Feb/2017 16:49:21] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[06/Feb/2017 16:49:21] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[06/Feb/2017 16:49:22] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[06/Feb/2017 16:49:23] - werkzeug - WARNING -  * Debugger is active!
+[06/Feb/2017 16:49:24] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[06/Feb/2017 16:50:07] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 16:50:07] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 16:50:07] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 16:50:08] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[06/Feb/2017 16:50:10] - werkzeug - WARNING -  * Debugger is active!
+[06/Feb/2017 16:50:10] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[06/Feb/2017 16:50:15] - werkzeug - INFO - 127.0.0.1 - - [06/Feb/2017 16:50:15] "POST / HTTP/1.1" 200 -
+[06/Feb/2017 16:50:20] - werkzeug - INFO - 127.0.0.1 - - [06/Feb/2017 16:50:20] "POST / HTTP/1.1" 200 -
+[06/Feb/2017 16:56:10] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 16:56:10] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 16:56:10] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 16:56:10] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\config.py', reloading
+[06/Feb/2017 16:56:10] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\config.py', reloading
+[06/Feb/2017 16:56:10] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\config.py', reloading
+[06/Feb/2017 16:56:10] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[06/Feb/2017 16:56:12] - werkzeug - WARNING -  * Debugger is active!
+[06/Feb/2017 16:56:12] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[06/Feb/2017 16:56:18] - werkzeug - INFO - 127.0.0.1 - - [06/Feb/2017 16:56:18] "POST / HTTP/1.1" 200 -
+[06/Feb/2017 16:56:33] - werkzeug - INFO - 127.0.0.1 - - [06/Feb/2017 16:56:33] "POST / HTTP/1.1" 200 -
+[06/Feb/2017 16:58:21] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 16:58:21] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 16:58:21] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 16:58:21] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[06/Feb/2017 16:58:23] - werkzeug - WARNING -  * Debugger is active!
+[06/Feb/2017 16:58:23] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[06/Feb/2017 17:00:15] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 17:00:15] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 17:00:15] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 17:00:16] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[06/Feb/2017 17:00:18] - werkzeug - WARNING -  * Debugger is active!
+[06/Feb/2017 17:00:18] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[06/Feb/2017 17:01:15] - werkzeug - INFO - 127.0.0.1 - - [06/Feb/2017 17:01:15] "POST / HTTP/1.1" 500 -
+[06/Feb/2017 17:02:42] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 17:02:42] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 17:02:42] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 17:02:42] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[06/Feb/2017 17:02:45] - werkzeug - WARNING -  * Debugger is active!
+[06/Feb/2017 17:02:45] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[06/Feb/2017 17:07:08] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 17:07:08] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 17:07:08] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 17:07:09] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[06/Feb/2017 17:23:57] - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[06/Feb/2017 17:23:58] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[06/Feb/2017 17:23:59] - werkzeug - WARNING -  * Debugger is active!
+[06/Feb/2017 17:23:59] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[06/Feb/2017 17:24:08] - werkzeug - INFO - 127.0.0.1 - - [06/Feb/2017 17:24:08] "POST / HTTP/1.1" 200 -
+[06/Feb/2017 17:24:33] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 17:24:33] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 17:24:33] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 17:24:35] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[06/Feb/2017 17:24:36] - werkzeug - WARNING -  * Debugger is active!
+[06/Feb/2017 17:24:36] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[06/Feb/2017 17:24:41] - werkzeug - INFO - 127.0.0.1 - - [06/Feb/2017 17:24:41] "POST / HTTP/1.1" 200 -
+[06/Feb/2017 17:24:47] - werkzeug - INFO - 127.0.0.1 - - [06/Feb/2017 17:24:47] "POST / HTTP/1.1" 200 -
+[06/Feb/2017 17:30:15] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[06/Feb/2017 17:30:15] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[06/Feb/2017 17:30:15] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[06/Feb/2017 17:30:16] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[06/Feb/2017 17:30:17] - werkzeug - WARNING -  * Debugger is active!
+[06/Feb/2017 17:30:17] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[06/Feb/2017 17:30:28] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[06/Feb/2017 17:30:28] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[06/Feb/2017 17:30:28] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[06/Feb/2017 17:30:29] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[06/Feb/2017 17:30:30] - werkzeug - WARNING -  * Debugger is active!
+[06/Feb/2017 17:30:30] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[06/Feb/2017 17:30:37] - werkzeug - INFO - 127.0.0.1 - - [06/Feb/2017 17:30:37] "POST / HTTP/1.1" 200 -
+[06/Feb/2017 17:31:08] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[06/Feb/2017 17:31:08] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[06/Feb/2017 17:31:09] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[06/Feb/2017 17:31:09] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[06/Feb/2017 17:31:11] - werkzeug - WARNING -  * Debugger is active!
+[06/Feb/2017 17:31:11] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[06/Feb/2017 17:31:17] - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[06/Feb/2017 17:31:17] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[06/Feb/2017 17:31:18] - werkzeug - WARNING -  * Debugger is active!
+[06/Feb/2017 17:31:18] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[06/Feb/2017 17:31:30] - werkzeug - INFO - 127.0.0.1 - - [06/Feb/2017 17:31:30] "POST / HTTP/1.1" 201 -
+[06/Feb/2017 17:32:01] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 17:32:01] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 17:32:01] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 17:32:02] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[06/Feb/2017 17:32:03] - werkzeug - WARNING -  * Debugger is active!
+[06/Feb/2017 17:32:03] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[06/Feb/2017 17:32:12] - werkzeug - INFO - 127.0.0.1 - - [06/Feb/2017 17:32:12] "POST / HTTP/1.1" 201 -
+[06/Feb/2017 17:32:24] - werkzeug - INFO - 127.0.0.1 - - [06/Feb/2017 17:32:24] "POST / HTTP/1.1" 201 -
+[06/Feb/2017 17:32:49] - werkzeug - INFO - 127.0.0.1 - - [06/Feb/2017 17:32:49] "POST / HTTP/1.1" 201 -
+[06/Feb/2017 18:24:33] - werkzeug - INFO - 127.0.0.1 - - [06/Feb/2017 18:24:33] "POST / HTTP/1.1" 201 -
+[06/Feb/2017 18:25:13] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 18:25:13] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 18:25:13] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 18:25:13] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[06/Feb/2017 18:25:15] - werkzeug - WARNING -  * Debugger is active!
+[06/Feb/2017 18:25:15] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[06/Feb/2017 18:25:17] - werkzeug - INFO - 127.0.0.1 - - [06/Feb/2017 18:25:17] "POST / HTTP/1.1" 201 -
+[06/Feb/2017 18:25:46] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 18:25:46] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 18:25:46] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[06/Feb/2017 18:25:47] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[06/Feb/2017 18:25:48] - werkzeug - WARNING -  * Debugger is active!
+[06/Feb/2017 18:25:48] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[06/Feb/2017 18:26:01] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[06/Feb/2017 18:26:01] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[06/Feb/2017 18:26:01] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[06/Feb/2017 18:26:02] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[06/Feb/2017 18:26:03] - werkzeug - WARNING -  * Debugger is active!
+[06/Feb/2017 18:26:03] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[06/Feb/2017 18:26:06] - werkzeug - INFO - 127.0.0.1 - - [06/Feb/2017 18:26:06] "POST / HTTP/1.1" 201 -
+[06/Feb/2017 18:39:56] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[06/Feb/2017 18:39:56] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[06/Feb/2017 18:39:56] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[06/Feb/2017 18:39:56] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[06/Feb/2017 18:39:58] - werkzeug - WARNING -  * Debugger is active!
+[06/Feb/2017 18:39:58] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[06/Feb/2017 18:42:45] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[06/Feb/2017 18:42:45] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[06/Feb/2017 18:42:45] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[06/Feb/2017 18:42:45] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[06/Feb/2017 18:42:47] - werkzeug - WARNING -  * Debugger is active!
+[06/Feb/2017 18:42:47] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[06/Feb/2017 18:42:56] - werkzeug - INFO - 127.0.0.1 - - [06/Feb/2017 18:42:56] "POST / HTTP/1.1" 404 -
+[06/Feb/2017 18:43:00] - werkzeug - INFO - 127.0.0.1 - - [06/Feb/2017 18:43:00] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 01:16:49] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 01:16:49] "GET /todo21 HTTP/1.1" 404 -
+[07/Feb/2017 01:16:56] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 01:16:56] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 10:54:40] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 10:54:40] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 10:54:50] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 10:54:50] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 10:54:57] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 10:54:57] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 12:42:39] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 12:42:39] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 12:42:46] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 12:42:46] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 12:42:56] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 12:42:56] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 12:42:57] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 12:42:57] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 12:42:58] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 12:42:58] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 12:42:59] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 12:42:59] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 12:43:00] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 12:43:00] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 12:43:01] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 12:43:01] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 12:43:02] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 12:43:02] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 12:43:03] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 12:43:03] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 12:43:04] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 12:43:04] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 12:43:15] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 12:43:15] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 12:43:16] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 12:43:16] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 12:43:17] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 12:43:17] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 12:43:18] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 12:43:18] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 12:43:19] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 12:43:19] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 12:44:35] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 12:44:35] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 12:44:38] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 12:44:38] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 12:45:03] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 12:45:03] "GET /gender-app/ HTTP/1.1" 405 -
+[07/Feb/2017 13:28:40] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 13:28:40] "GET /gender-app/ HTTP/1.1" 405 -
+[07/Feb/2017 13:29:08] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 13:29:08] "POST /gender-app/ HTTP/1.1" 201 -
+[07/Feb/2017 13:29:16] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 13:29:16] "POST /gender-app HTTP/1.1" 500 -
+[07/Feb/2017 13:29:31] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 13:29:31] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 13:29:31] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 13:29:32] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[07/Feb/2017 13:29:37] - werkzeug - WARNING -  * Debugger is active!
+[07/Feb/2017 13:29:37] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[07/Feb/2017 13:29:37] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 13:29:37] "POST /gender-app/ HTTP/1.1" 404 -
+[07/Feb/2017 13:29:43] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 13:29:43] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 13:29:46] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 13:29:46] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 13:29:49] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 13:29:49] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 13:54:51] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 13:54:51] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 13:54:54] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 13:54:54] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 13:55:07] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 13:55:07] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 13:55:08] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 13:55:08] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 13:56:50] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 13:56:50] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 13:57:06] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 13:57:06] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 13:58:51] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 13:58:51] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 13:58:53] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 13:58:53] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:00:25] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:00:25] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:00:25] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:00:25] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[07/Feb/2017 14:01:22] - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[07/Feb/2017 14:01:22] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[07/Feb/2017 14:01:25] - werkzeug - WARNING -  * Debugger is active!
+[07/Feb/2017 14:01:25] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[07/Feb/2017 14:01:26] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:01:26] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:01:35] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:01:35] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:02:17] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:02:17] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:02:26] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:02:26] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:02:40] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:02:40] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:03:21] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:03:21] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:03:21] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:03:22] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[07/Feb/2017 14:03:26] - werkzeug - WARNING -  * Debugger is active!
+[07/Feb/2017 14:03:26] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[07/Feb/2017 14:03:29] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:03:29] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:05:18] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:05:18] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:06:52] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:06:52] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:08:00] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:08:00] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:08:00] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:08:01] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[07/Feb/2017 14:08:05] - werkzeug - WARNING -  * Debugger is active!
+[07/Feb/2017 14:08:05] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[07/Feb/2017 14:08:07] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:08:07] "POST /gender-app HTTP/1.1" 500 -
+[07/Feb/2017 14:09:02] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:09:02] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:09:02] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:09:03] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[07/Feb/2017 14:09:09] - werkzeug - WARNING -  * Debugger is active!
+[07/Feb/2017 14:09:09] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[07/Feb/2017 14:09:10] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:09:10] "POST /gender-app HTTP/1.1" 500 -
+[07/Feb/2017 14:09:11] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:09:11] "POST /gender-app HTTP/1.1" 500 -
+[07/Feb/2017 14:10:48] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:10:48] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:10:48] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:10:49] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[07/Feb/2017 14:10:53] - werkzeug - WARNING -  * Debugger is active!
+[07/Feb/2017 14:10:53] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[07/Feb/2017 14:10:56] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:10:56] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:10:56] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:10:57] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[07/Feb/2017 14:11:01] - werkzeug - WARNING -  * Debugger is active!
+[07/Feb/2017 14:11:01] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[07/Feb/2017 14:11:02] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:11:02] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:11:10] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:11:10] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:13:02] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:13:02] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:13:39] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:13:39] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:13:46] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:13:46] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:13:51] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:13:51] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:21:00] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:21:00] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:21:25] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:21:25] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:23:00] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:23:00] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:23:25] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:23:25] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:24:32] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:24:32] "POST /gender-app HTTP/1.1" 500 -
+[07/Feb/2017 14:24:48] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:24:48] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:25:38] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:25:38] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:25:38] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:25:39] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[07/Feb/2017 14:25:44] - werkzeug - WARNING -  * Debugger is active!
+[07/Feb/2017 14:25:44] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[07/Feb/2017 14:25:45] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:25:45] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:25:45] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 14:25:45] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[07/Feb/2017 14:25:52] - werkzeug - WARNING -  * Debugger is active!
+[07/Feb/2017 14:25:52] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[07/Feb/2017 14:25:53] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:25:53] "POST /gender-app HTTP/1.1" 200 -
+[07/Feb/2017 14:26:01] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:26:01] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:26:19] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:26:19] "POST /gender-app HTTP/1.1" 200 -
+[07/Feb/2017 14:29:39] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:29:39] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:29:40] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:29:40] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:33:47] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:33:47] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:34:17] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:34:17] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:34:21] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:34:21] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:34:50] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:34:50] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:41:39] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:41:39] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:43:38] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:43:38] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:44:18] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:44:18] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 14:45:55] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 14:45:55] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:08:14] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:08:14] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:32:27] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:32:27] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:32:31] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:32:31] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:32:33] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:32:33] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:32:48] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:32:48] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:33:57] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:33:57] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:34:50] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:34:50] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:34:59] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:34:59] "POST /gender-app HTTP/1.1" 200 -
+[07/Feb/2017 15:35:08] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:35:08] "POST /gender-app HTTP/1.1" 200 -
+[07/Feb/2017 15:35:11] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:35:11] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:35:26] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:35:26] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:35:38] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:35:38] "POST /gender-app HTTP/1.1" 200 -
+[07/Feb/2017 15:35:41] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:35:41] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:38:34] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:38:34] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:38:50] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:38:50] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:39:02] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:39:02] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:39:22] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:39:22] "POST /gender-app HTTP/1.1" 200 -
+[07/Feb/2017 15:41:06] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:41:06] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:42:50] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:42:50] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:44:08] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:44:08] "POST /gender-app HTTP/1.1" 200 -
+[07/Feb/2017 15:44:12] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:44:12] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:45:05] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:45:05] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:46:22] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:46:22] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:48:03] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 15:48:03] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 15:48:03] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 15:48:03] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[07/Feb/2017 15:48:07] - werkzeug - WARNING -  * Debugger is active!
+[07/Feb/2017 15:48:07] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[07/Feb/2017 15:48:09] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:48:09] "POST /gender-app HTTP/1.1" 500 -
+[07/Feb/2017 15:48:12] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:48:12] "POST /gender-app HTTP/1.1" 500 -
+[07/Feb/2017 15:48:27] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 15:48:27] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 15:48:27] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderAppFlask.py', reloading
+[07/Feb/2017 15:48:27] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[07/Feb/2017 15:48:32] - werkzeug - WARNING -  * Debugger is active!
+[07/Feb/2017 15:48:32] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[07/Feb/2017 15:48:44] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:48:44] "POST /gender-app HTTP/1.1" 200 -
+[07/Feb/2017 15:49:02] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:49:02] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:50:29] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[07/Feb/2017 15:50:29] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[07/Feb/2017 15:50:29] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[07/Feb/2017 15:50:29] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[07/Feb/2017 15:50:35] - werkzeug - WARNING -  * Debugger is active!
+[07/Feb/2017 15:50:35] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[07/Feb/2017 15:50:37] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:50:37] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:50:44] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:50:44] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:53:30] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[07/Feb/2017 15:53:30] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[07/Feb/2017 15:53:30] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[07/Feb/2017 15:53:31] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[07/Feb/2017 15:53:35] - werkzeug - WARNING -  * Debugger is active!
+[07/Feb/2017 15:53:35] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[07/Feb/2017 15:53:39] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:53:39] "POST /gender-app HTTP/1.1" 200 -
+[07/Feb/2017 15:53:48] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:53:48] "POST /gender-app HTTP/1.1" 200 -
+[07/Feb/2017 15:53:55] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:53:55] "POST /gender-app HTTP/1.1" 200 -
+[07/Feb/2017 15:54:05] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[07/Feb/2017 15:54:05] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[07/Feb/2017 15:54:05] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\gender_predictor.py', reloading
+[07/Feb/2017 15:54:06] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[07/Feb/2017 15:54:10] - werkzeug - WARNING -  * Debugger is active!
+[07/Feb/2017 15:54:10] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[07/Feb/2017 15:54:12] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:54:12] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:54:18] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:54:18] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 15:58:25] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:58:25] "POST /gender-app HTTP/1.1" 200 -
+[07/Feb/2017 15:58:48] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:58:48] "POST /gender-app HTTP/1.1" 200 -
+[07/Feb/2017 15:58:52] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 15:58:52] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 16:00:57] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:00:57] "POST /gender-app HTTP/1.1" 200 -
+[07/Feb/2017 16:01:00] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:01:00] "POST /gender-app HTTP/1.1" 200 -
+[07/Feb/2017 16:01:02] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:01:02] "POST /gender-app HTTP/1.1" 200 -
+[07/Feb/2017 16:01:05] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:01:05] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 16:01:28] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:01:28] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 16:01:37] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:01:37] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 16:01:45] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:01:45] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 16:02:38] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:02:38] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 16:02:51] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:02:51] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 16:03:00] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:03:00] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 16:04:38] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:04:38] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 16:04:54] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:04:54] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 16:06:51] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:06:51] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 16:06:53] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:06:53] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 16:07:36] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:07:36] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 16:07:38] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:07:38] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 16:07:40] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:07:40] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 16:07:42] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:07:42] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 16:07:49] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:07:49] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 16:08:00] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:08:00] "POST /gender-app HTTP/1.1" 200 -
+[07/Feb/2017 16:12:19] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:12:19] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 16:18:39] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:18:39] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 16:18:43] - werkzeug - INFO - 127.0.0.1 - - [07/Feb/2017 16:18:43] "POST /gender-app HTTP/1.1" 201 -
+[07/Feb/2017 16:24:56] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\__pycache__\\config.cpython-35.py', reloading
+[07/Feb/2017 16:24:56] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\__pycache__\\gender_predictor.cpython-35.py', reloading
+[07/Feb/2017 16:24:56] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\__pycache__\\logger.cpython-35.py', reloading
+[07/Feb/2017 16:24:56] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\__pycache__\\USSSALoader.cpython-35.py', reloading
+[07/Feb/2017 16:24:56] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\__pycache__\\__init__.cpython-35.py', reloading
+[07/Feb/2017 16:24:57] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[07/Feb/2017 16:25:00] - werkzeug - WARNING -  * Debugger is active!
+[07/Feb/2017 16:25:00] - werkzeug - INFO -  * Debugger pin code: 105-763-062
+[07/Feb/2017 16:25:27] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\__pycache__\\config.cpython-35.py', reloading
+[07/Feb/2017 16:25:27] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\__pycache__\\gender_predictor.cpython-35.py', reloading
+[07/Feb/2017 16:25:27] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\__pycache__\\logger.cpython-35.py', reloading
+[07/Feb/2017 16:25:27] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\__pycache__\\USSSALoader.cpython-35.py', reloading
+[07/Feb/2017 16:25:27] - werkzeug - INFO -  * Detected change in 'C:\\Users\\vp2\\Documents\\WORK\\python\\vijay_web_projects\\GenderAppFlask\\GenderPredictor\\lib\\__pycache__\\__init__.cpython-35.py', reloading
+[07/Feb/2017 16:25:28] - werkzeug - INFO -  * Restarting with windowsapi reloader
+[07/Feb/2017 16:25:33] - werkzeug - WARNING -  * Debugger is active!
+[07/Feb/2017 16:25:33] - werkzeug - INFO -  * Debugger pin code: 105-763-062
