@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title>Machine Learning</title>
+    <script type = "text/javascript"
+            src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+    <script type = "text/javascript" language = "javascript">
+        $(document).ready(function() {
+            $("#reset").click(function(event){
+                        $('#name').val('');
+                    });
+
+
+            $("#classify").click(function(event){
+                $.post(
+                        "http://127.0.0.1:5000/gender-app",
+                        {
+						name: $("#name").val()
+                        },
+                        function(data) {
+						    $('#result').empty();
+                            var obj = jQuery.parseJSON(JSON.stringify(data));
+							var result = "Name: "+ obj.name + " is classified as " + obj.classified;
+							$("#result").append(result);
+							//alert(result);
+							console.log(result);
+                        }
+                );
+
+            });
+
+        });
+    </script>
+</head>
+
+<body>
+<div id = "stage">
+    <label>Name: </label>
+    <input type = "text" id = "name" value = "" />
+    <input type = "button" id = "classify" value = "Classify" />
+    <input type = "button" id = "reset" value = "Reset" />
+	<br>
+	<p id="result"></P>
+</div>
+</body>
+</html>
